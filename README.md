@@ -1,7 +1,13 @@
 # 💫 About Me:
-Hello! I'm Jesica Gomez, an enthusiastic Software Development student with a special focus on Java and Full Stack technologies. I graduated as a Full Stack Java programmer from the University of La Punta, where I gained solid knowledge in web development, databases, and application design. Additionally, I have completed a course on Angular 17, which allowed me to develop my first e-commerce store. Currently, I'm studying Python to continue expanding my skills in the world of software development.
-I'm passionate about learning and constantly growing in the world of technology, so I dedicate time every day to self-study and completing online courses. My main goal right now is to transition into the IT industry and contribute my creativity and knowledge to challenging projects.
-I'm excited about the opportunities that the field of technology offers and am eager to tackle new challenges with enthusiasm and determination. Connect with me, and together we can explore new possibilities in the world of software development!"
+👋 Hello! I'm Jesica Gomez, an enthusiastic Software Development student with a special focus on Java and Full Stack technologies. I graduated as a Full Stack Java programmer from the Universidad de La Punta, where I gained solid knowledge in web development, databases, and application design among others. Additionally, I have completed a course on Angular 17, which allowed me to develop my first e-commerce store.
+
+Currently, I'm expanding my skills in the world of software development by studying Python and taking an Angular course to complement my knowledge in technologies like Java, HTML, CSS, JavaScript, and ReactJS. I am passionate about continuous learning and dedicate time every day to self-study and completing online courses.
+
+My proactive approach to acquiring new knowledge, combined with my mastery of key technologies, allows me to excel in dynamic environments.
+
+In addition to my passion for technology, I am also pursuing Languages (English) at the Universidad Nacional del Oeste (UNO). My previous experience focuses on administrative roles, where I have developed valuable skills for my professional and personal growth. What defines me is my passion for continuous improvement and creative problem-solving.
+
+I am excited about the opportunities in the field of software development and eager to discuss how my knowledge and passion for technology can make a significant contribution.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jesygomez) 
