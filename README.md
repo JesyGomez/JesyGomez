@@ -1,15 +1,50 @@
 # 💫 About Me:
-👋 Hello! I'm Jesica Gomez, an enthusiastic Software Development student with a special focus on Java and Full Stack technologies. I graduated as a Full Stack Java programmer from the Universidad de La Punta, where I gained solid knowledge in web development, databases, and application design among others. Additionally, I have completed a course on Angular, which allowed me to develop my first e-commerce store.
+👋 # Hello! I'm Jesica Gómez 👩‍💻  
 
-Currently, I'm expanding my skills in the world of software development by studying Python and taking an Angular course to complement my knowledge in technologies like Java, HTML, CSS, JavaScript, and ReactJS. I am passionate about continuous learning and dedicate time every day to self-study and completing online courses.
+I am a **passionate Software Development student** with a special focus on **Full Stack** technologies and **Java**. Throughout my journey, I have dedicated myself to acquiring strong technical skills and applying them to various practical projects.  
 
-My proactive approach to acquiring new knowledge, combined with my mastery of key technologies, allows me to excel in dynamic environments.
+## 📚 **Education and Technical Skills**  
 
-In addition to my passion for technology, I am also pursuing Languages (English) at the Universidad Nacional del Oeste (UNO). My previous experience focuses on administrative roles, where I have developed valuable skills for my professional and personal growth. What defines me is my passion for continuous improvement and creative problem-solving.
+- **Full Stack Java Programmer** | *Universidad de La Punta*  
+  Graduated with a focus on web development, databases, and application design.  
 
-I am excited about the opportunities in the field of software development and eager to discuss how my knowledge and passion for technology can make a significant contribution.
+- **Recent and ongoing courses**:  
+  - **Angular**: Developed new features like advanced product queries in an e-commerce project.  
+  - **Java 21 and Spring Boot**: Including security, authentication, and JWT.  
+  - **Frontend in Talento Tech** | *Alura-Oracle*: HTML, CSS, JavaScript, Bootstrap, and GitHub.  
+  - **Python Full Stack** | *Codo a Codo*: Developed a pet adoption application with full CRUD functionality.  
 
-## 🌐 Socials:
+- **Languages**:  
+  - Currently studying **English** at *Universidad Nacional del Oeste (UNO)*, focusing on improving written and oral communication skills for professional and technical settings.  
+
+## 💼 **Featured Projects**  
+
+1. **E-commerce Store**  
+   - Technologies: *Angular, TypeScript, Bootstrap*.  
+   - Features: Product management, advanced queries, and responsive design.  
+
+2. **Pet Adoption Application**  
+   - Technologies: *Python, Flask, MySQL*.  
+   - Implemented a CRUD system for managing pets with relational databases.  
+
+3. **Personal Portfolio**  
+   - Technologies: *HTML, CSS, JavaScript*.  
+   - Modern design showcasing my projects and skills.  
+
+4. **Lead Status Updates**  
+   - Technologies: *JavaScript, Bootstrap*.  
+   - Management system with activity log tracking.  
+
+## 🚀 **About Me**  
+
+I am a **proactive, dedicated, and committed learner**, passionate about solving problems creatively and acquiring new technologies to enhance my skills. My prior experience in administrative roles provided me with a solid foundation in organization and teamwork, which I now apply to my development projects.  
+
+My English studies complement my technical skills, preparing me to collaborate on international projects and adapt to multicultural environments.  
+
+I am excited about opportunities in the software development field and eager to contribute my knowledge and passion for technology.  
+
+## 🌐 **Connect with Me**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jesygomez) 
 
 # 💻 Tech Stack:
