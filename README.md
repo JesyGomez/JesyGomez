@@ -1,47 +1,142 @@
-# 💫 About Me:
-👋 # Hello! I'm Jesica Gómez 👩‍💻  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F58C3C&width=435&lines=Hi%2C+I'm+Jesy+G%C3%B3mez;Full+Stack+Developer+in+progress;Passionate+about+web+development" alt="Typing SVG" />
+</p>
 
-I am a **passionate Software Development student** with a special focus on **Full Stack** technologies and **Java**. Throughout my journey, I have dedicated myself to acquiring strong technical skills and applying them to various practical projects.  
+---
 
-## 📚 **Education and Technical Skills**  
+# 👋 Hello! I'm Jesica Gómez  
 
-- **Full Stack Java Programmer** | *Universidad de La Punta*  
-  Graduated with a focus on web development, databases, and application design.  
+💻 **Full Stack Developer in continuous training**, focused on **Java**, **Angular**, **React** and modern web technologies. I'm passionate about solving problems creatively and building impactful solutions.
 
-- **Recent and ongoing courses**:  
-  - **Angular**: Developed new features like advanced product queries in an e-commerce project.  
-  - **Java 21 and Spring Boot**: Including security, authentication, and JWT.  
-  - **Frontend in Talento Tech** | *Alura-Oracle*: HTML, CSS, JavaScript, Bootstrap, and GitHub.  
-  - **Python Full Stack** | *Codo a Codo*: Developed a pet adoption application with full CRUD functionality.  
+---
 
-- **Languages**:  
-  - Currently studying **English** at *Universidad Nacional del Oeste (UNO)*, focusing on improving written and oral communication skills for professional and technical settings.  
+## 📚 Education & Technical Training
 
-## 💼 **Featured Projects**  
+- 🎓 **Full Stack Java Programmer** | *Universidad de La Punta*  
+  Focused on web development, databases, and application design.
 
-1. **E-commerce Store**  
-   - Technologies: *Angular, TypeScript, Bootstrap*.  
-   - Features: Product management, advanced queries, and responsive design.  
+- 🚀 **Full Stack Accelerator** | *Polo IT Buenos Aires*  
+  Intensive project with real-world web development practices, agile methodologies, and teamwork.
+  HTML, CSS, JavaScript, Bootstrap, Mysql, SweetAlert2, Git, GitHub, Jira, Figma and Soft Skills.
 
-2. **Pet Adoption Application**  
-   - Technologies: *Python, Flask, MySQL*.  
-   - Implemented a CRUD system for managing pets with relational databases.  
+- 🎓 **Frontend Talento Tech** | *Talento Tech*  
+  HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Figma, Trello, and Soft Skills.
 
-3. **Personal Portfolio**  
-   - Technologies: *HTML, CSS, JavaScript*.  
-   - Modern design showcasing my projects and skills.  
+- 🐍 **Full Stack Python** | *Codo a Codo*  
+  Pet adoption application with full CRUD functionality using Flask and MySQL.
 
-4. **Lead Status Updates**  
-   - Technologies: *JavaScript, Bootstrap*.  
-   - Management system with activity log tracking.  
+- ☕ **Java 21 + Spring Boot** | *Alura + Oracle Next Education* 
+  Authentication, security, JWT, REST architecture, and clean code principles.
+  HTML, CSS, JavaScript, Bootstrap, Git, GitHub, ApiRest, Mysql, Postgresql, Workbech, Figma, Trello, and Soft Skills.
 
-## 🚀 **About Me**  
+- ⚙️ **Angular 17 + TypeScript**  
+  Implemented new features, advanced queries, responsive UI, and API integration.
 
-I am a **proactive, dedicated, and committed learner**, passionate about solving problems creatively and acquiring new technologies to enhance my skills. My prior experience in administrative roles provided me with a solid foundation in organization and teamwork, which I now apply to my development projects.  
+---
 
-My English studies complement my technical skills, preparing me to collaborate on international projects and adapt to multicultural environments.  
+## 💼 Featured Projects
 
-I am excited about opportunities in the software development field and eager to contribute my knowledge and passion for technology.  
+1. 🔥 **Angular E-commerce**  
+   - *Angular, TypeScript, Bootstrap*  
+   - Product management, responsive design, search, and filters.
+
+2. 🐾 **Pet Adoption App**  
+   - *Python, Flask, MySQL*  
+   - Full CRUD system with image uploads and admin dashboard.
+
+3. 🧩 **Personal Portfolio**  
+   - *HTML, CSS, JavaScript*  
+   - Modern layout with animations and live project showcase.
+
+4. 📊 **Lead Status Manager**  
+   - *JavaScript, Bootstrap*  
+   - Status update system with change log.
+
+---
+
+## 🌍 Languages
+
+- 📖 Currently studying **Technical English** at *Universidad Nacional del Oeste (UNO)*  
+  Improving communication skills for professional and IT settings.
+
+---
+
+## 🚀 About Me
+
+✨ I am **proactive, curious, and self-taught**. My background in administration gave me a solid foundation in teamwork, time management, and organization.  
+
+🎯 My goal is to join development teams where I can contribute meaningful solutions and keep learning every day.  
+
+🌐 I'm excited to collaborate on global projects, combining my technical skills with strong soft skills.
+
+---
+
+---
+
+# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="32" alt="Waving hand"/> ¡Hola! Soy Jesica Gómez  
+
+💻 **Desarrolladora Full Stack en formación continua** con foco en **Java**, **Angular**, y tecnologías web modernas. Me apasiona resolver problemas de forma creativa y construir soluciones con impacto.
+
+---
+
+## 📚 Educación & Formación Técnica  
+
+- 🎓 **Programadora Full Stack Java** | *Universidad de La Punta*  
+  Enfoque en desarrollo web, bases de datos y diseño de aplicaciones.
+
+- 🚀 **Acelerador Full Stack** | *Polo IT Buenos Aires*  
+  Proyecto intensivo con prácticas reales de desarrollo web, metodologías ágiles y trabajo en equipo.
+  HTML, CSS, JavaScript, Bootstrap, Mysql, SweetAlert2, Git, GitHub, Jira, Figma and Soft Skills.
+
+- 🎓 **Frontend en Talento Tech** | *Talento Tech*  
+  HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Figma, Trello y fundamentos de Soft Skills.
+
+- 🐍 **Full Stack Python** | *Codo a Codo*  
+  Aplicación de adopción de mascotas con CRUD completo usando Flask y MySQL.
+
+- ☕ **Java 21 + Spring Boot**  | *Alura-Oracle*
+  Autenticación, seguridad, JWT, arquitectura REST y desarrollo con buenas prácticas.
+  HTML, CSS, JavaScript, Bootstrap, Git, GitHub, ApiRest, Mysql, Postgresql, Workbech, Figma, Trello y Soft Skills.
+  
+- ⚙️ **Angular 17 + TypeScript**  
+  Nuevas features, consultas avanzadas, diseño responsive y conexión con APIs.
+
+---
+
+## 💼 Proyectos Destacados
+
+1. 🔥 **E-commerce Angular**  
+   - *Angular, TypeScript, Bootstrap*  
+   - Gestión de productos, diseño adaptable, búsquedas y filtros.
+
+2. 🐾 **Adopción de Mascotas**  
+   - *Python, Flask, MySQL*  
+   - CRUD completo, carga de imágenes y panel administrativo.
+
+3. 🧩 **Portafolio Personal**  
+   - *HTML, CSS, JavaScript*  
+   - Diseño moderno, animaciones, y proyectos en vivo.
+
+4. 📊 **Gestión de Leads y Estados**  
+   - *JavaScript, Bootstrap*  
+   - Actualización de estados con registro histórico.
+
+---
+
+## 🌍 Idiomas
+
+- 📖 Estudiante de **Inglés técnico** en *Universidad Nacional del Oeste (UNO)*  
+  Mejorando habilidades comunicativas para contextos profesionales e IT.
+
+---
+
+## 🚀 Sobre Mí
+
+✨ Soy **proactiva, curiosa y autodidacta**. Vengo de un background administrativo, lo que me dio una base sólida en trabajo en equipo, gestión del tiempo y organización.  
+
+🎯 Mi objetivo es integrarme a equipos de desarrollo donde pueda aportar soluciones con impacto y seguir aprendiendo cada día.  
+
+🌐 Me entusiasma colaborar en proyectos globales, combinando mis conocimientos técnicos con mis habilidades blandas.
 
 ## 🌐 **Connect with Me**  
 
