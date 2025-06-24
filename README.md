@@ -4,8 +4,8 @@
 
 ## 🌟 **About Me**
 ```diff
- 💻 Full Stack Developer in continuous training, focused on **Java**, **Angular**, **React** and modern web technologies. 
- I'm passionate about solving problems creatively and building impactful solutions.
++ 💻 Full Stack Developer in continuous training, focused on **Java**, **Angular**, **React** and modern web technologies. 
++ I'm passionate about solving problems creatively and building impactful solutions.
 ```
 
 ✨ I am **proactive, curious, and self-taught**. My background in administration gave me a solid foundation in teamwork, time management, and organization.  
@@ -87,11 +87,11 @@
 
 ## 🌟 **Sobre Mí**
 ```diff
-✨ Soy **proactiva, curiosa y autodidacta**. Vengo de un background administrativo, lo que me dio una base sólida en trabajo en equipo, gestión del tiempo y organización.  
++ ✨ Soy **proactiva, curiosa y autodidacta**. Vengo de un background administrativo, lo que me dio una base sólida en trabajo en equipo, gestión del tiempo y organización.  
 
-🎯 Mi objetivo es integrarme a equipos de desarrollo donde pueda aportar soluciones con impacto y seguir aprendiendo cada día.  
++ 🎯 Mi objetivo es integrarme a equipos de desarrollo donde pueda aportar soluciones con impacto y seguir aprendiendo cada día.  
 
-🌐 Me entusiasma colaborar en proyectos globales, combinando mis conocimientos técnicos con mis habilidades blandas.
++ 🌐 Me entusiasma colaborar en proyectos globales, combinando mis conocimientos técnicos con mis habilidades blandas.
 ```
 
 ---
