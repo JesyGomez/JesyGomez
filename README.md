@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFA500&center=true&vCenter=true&width=500&lines=👋+I'm+Jesy+G%C3%B3mez;Full+Stack+Developer+in+progress;Passionate+about+web+development" alt="Typing SVG" />
+# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="32" alt="Waving hand"/> ¡Hi! I'm Jesica 
 </p>
----
 
 ## 🌟 **About Me**
 ```diff
-
-+ 💻 Full Stack Developer in continuous training, focused on **Java**, **Angular**, **React** and modern web technologies. 
-+ I'm passionate about solving problems creatively and building impactful solutions.
+ 💻 Full Stack Developer in continuous training, focused on **Java**, **Angular**, **React** and modern web technologies. 
+ I'm passionate about solving problems creatively and building impactful solutions.
 ```
 
 ✨ I am **proactive, curious, and self-taught**. My background in administration gave me a solid foundation in teamwork, time management, and organization.  
@@ -59,7 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesygomez&layout=compact&theme=radical" width="400"/>
 </p>
 
-
 ---
 
 ## 📫 **Connect With Me**
@@ -83,16 +80,18 @@
 # <img src="https://flagcdn.com/16x12/es.png" width="20" alt="Spanish"/> Versión en Español
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFA500&center=true&vCenter=true&width=500&lines=👋+¡Hola!+Soy+Jesica+Gómez;🚀+Desarrolladora+Full+Stack;💻+Apasionada+por+el+código" alt="Typing SVG" />
+# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="32" alt="Waving hand"/> ¡Hola! Soy Jesica Gómez 
 </p>
 
 ---
 
 ## 🌟 **Sobre Mí**
 ```diff
-+ ✨ Soy **proactiva, curiosa y autodidacta**. Vengo de un background administrativo, lo que me dio una base sólida en trabajo en equipo, gestión del tiempo y organización.  
-+ 🎯 Mi objetivo es integrarme a equipos de desarrollo donde pueda aportar soluciones con impacto y seguir aprendiendo cada día.  
-+ 🌐 Me entusiasma colaborar en proyectos globales, combinando mis conocimientos técnicos con mis habilidades blandas."
+✨ Soy **proactiva, curiosa y autodidacta**. Vengo de un background administrativo, lo que me dio una base sólida en trabajo en equipo, gestión del tiempo y organización.  
+
+🎯 Mi objetivo es integrarme a equipos de desarrollo donde pueda aportar soluciones con impacto y seguir aprendiendo cada día.  
+
+🌐 Me entusiasma colaborar en proyectos globales, combinando mis conocimientos técnicos con mis habilidades blandas.
 ```
 
 ---
@@ -148,11 +147,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jesygomez&label=Visitas+al+perfil&color=orange&style=flat" alt="jesygomez" />
-</p>
-```
----
 <!--## 🌐 **Connect with Me**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesygomez)-->
