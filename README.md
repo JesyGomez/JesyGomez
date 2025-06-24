@@ -16,7 +16,7 @@
 
 ---
 
-## 📚 Education & Technical Training
+## 📚 Education & Technical
 
 - 🎓 **Full Stack Java Programmer** | *Universidad de La Punta*  
   Focused on web development, databases, and application design.
