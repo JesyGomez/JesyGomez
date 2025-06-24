@@ -23,9 +23,12 @@
 
 - 🚀 **Full Stack Accelerator** | *Polo IT Buenos Aires*  
   Intensive project with real-world web development practices, agile methodologies, and teamwork.
-  HTML, CSS, JavaScript, Bootstrap, Mysql, SweetAlert2, Git, GitHub, Jira, Figma and Soft Skills.
+  HTML, CSS, JavaScript, Bootstrap, Mysql, React, SweetAlert2, Git, GitHub, Jira, Figma and Soft Skills.
 
-- 🎓 **Frontend Talento Tech** | *Talento Tech*  
+- 🎓 **React en Talento Tech** | *Talento Tech*  
+  HTML, CSS, JavaScript, Bootstrap, SweetAlert, MockApi, Helmet, Git, GitHub.
+
+- 🎓 **Frontend** | *Talento Tech*  
   HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Figma, Trello, and Soft Skills.
 
 - 🐍 **Full Stack Python** | *Codo a Codo*  
@@ -88,9 +91,7 @@
 ## 🌟 **Sobre Mí**
 ```diff
 + ✨ Soy **proactiva, curiosa y autodidacta**. Vengo de un background administrativo, lo que me dio una base sólida en trabajo en equipo, gestión del tiempo y organización.  
-
 + 🎯 Mi objetivo es integrarme a equipos de desarrollo donde pueda aportar soluciones con impacto y seguir aprendiendo cada día.  
-
 + 🌐 Me entusiasma colaborar en proyectos globales, combinando mis conocimientos técnicos con mis habilidades blandas.
 ```
 
@@ -103,9 +104,12 @@
 
 - 🚀 **Acelerador Full Stack** | *Polo IT Buenos Aires*  
   Proyecto intensivo con prácticas reales de desarrollo web, metodologías ágiles y trabajo en equipo.
-  HTML, CSS, JavaScript, Bootstrap, Mysql, SweetAlert2, Git, GitHub, Jira, Figma and Soft Skills.
+  HTML, CSS, JavaScript, Bootstrap, Mysql, React, SweetAlert2, Git, GitHub, Jira, Figma and Soft Skills.
 
-- 🎓 **Frontend en Talento Tech** | *Talento Tech*  
+- 🎓 **React en Talento Tech** | *Talento Tech*  
+  HTML, CSS, JavaScript, Bootstrap, MockApi, SweetAlert, Helmet, Git, GitHub.
+
+- 🎓 **Frontend** | *Talento Tech*  
   HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Figma, Trello y fundamentos de Soft Skills.
 
 - 🐍 **Full Stack Python** | *Codo a Codo*  
