@@ -28,11 +28,11 @@
 - 🎓 **React en Talento Tech** | *Talento Tech*  
   HTML, CSS, JavaScript, Bootstrap, SweetAlert, MockApi, Helmet, Git, GitHub.
 
-- 🎓 **Frontend** | *Talento Tech*  
-  HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Figma, Trello, and Soft Skills.
-
 - 🐍 **Full Stack Python** | *Codo a Codo*  
   Pet adoption application with full CRUD functionality using Flask and MySQL.
+
+- 🎓 **Frontend** | *Talento Tech*  
+  HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Figma, Trello, and Soft Skills.
 
 - ☕ **Java 21 + Spring Boot** | *Alura + Oracle Next Education* 
   Authentication, security, JWT, REST architecture, and clean code principles.
@@ -40,6 +40,9 @@
 
 - ⚙️ **Angular 17 + TypeScript**  
   Implemented new features, advanced queries, responsive UI, and API integration.
+
+- 🎓 **CarreraTech AI** | *Alura-Oracle*  
+  AI implementation with Java, Spring, code editor, Excel, landing page.
 
 ---
 
@@ -121,6 +124,9 @@
   
 - ⚙️ **Angular 17 + TypeScript**  
   Nuevas features, consultas avanzadas, diseño responsive y conexión con APIs.
+
+- 🎓 **CarreraTech IA** | *Alura-Oracle*  
+  Implementación de Java, Spring, VSC, Excel, landing page, Ingeniería de promp con IA.
 
 ---
 
