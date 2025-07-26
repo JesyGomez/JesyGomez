@@ -1,18 +1,31 @@
 <p align="center">
-# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="32" alt="Waving hand"/> ¡Hi! I'm Jesica 
+  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="32" alt="Waving hand"/> ¡Hi! I'm Jesica 
 </p>
 
-## 🌟 **About Me**
-```diff
-+ 💻 Full Stack Developer in continuous training, focused on **Java**, **Angular**, **React** and modern web technologies. 
-+ I'm passionate about solving problems creatively and building impactful solutions.
-```
+<div align="center">
+  <a href="https://github.com/JesyGomez">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZpbWF4c2l4ZnByMTlxdmVoejdmaGR3OTJ6dDYzcGNkbDZ0OTZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="100%" height="500px" style="object-fit: cover;" />
+  </a>
+</div>
 
+<h2 align="center">🌟 About Me</h2>
+
+<p align="center">
+  💻 I'm a Full Stack Developer in continuous training, focused on <strong>Java</strong>, <strong>Angular</strong>, <strong>React</strong>, and modern web technologies.<br>
+  🚀 I'm passionate about solving problems creatively and building impactful solutions.
+</p>
 ✨ I am **proactive, curious, and self-taught**. My background in administration gave me a solid foundation in teamwork, time management, and organization.  
-
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25lcTg2MGJpamYzNno1MzdjMTNsMHVtYTdkNzVja2RkN3MyM3FjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 🎯 My goal is to join development teams where I can contribute meaningful solutions and keep learning every day.  
 
 🌐 I'm excited to collaborate on global projects, combining my technical skills with strong soft skills.
+
+---
+<p align="center">
+  <a href="https://jesygomez.github.io/Portfolio-in-English/" target="_blank">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGF6amNsNGxwNzJhZjk3dTZrcjVmeHZrMXdzd2d6cm8zcHJzZndvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Oe5bzMJi5LVcbP0u/giphy.gif" width="250" alt="Portfolio Link">
+  </a>
+</p>
 
 ---
 
@@ -52,7 +65,7 @@
 | 🛒 **E-commerce Platform** | Angular · TypeScript · TailwindCSS | Product management with responsive design |
 | 🐶 **Pet Adoption App** | Python · Flask · Bootstrap| Complete CRUD system with admin panel |
 | 🛒 **E-commerce Patitas** | React · Js · Bootstrap · SweetAlert · APIRest | Product management with responsive design |
-| ✨ **Developer Portfolio** | HTML · CSS · JS | Interactive showcase with animations |
+| ✨ **Developer Portfolio** | HTML · CSS · JS · Angular | Interactive showcase with animations |
 | 🐾 **Pet Portal App** | Python · Flask · React· MySQL · Bootstrap | Complete CRUD system with admin panel |
 
 ---
@@ -68,16 +81,30 @@
 ## 📫 **Connect With Me**
 <p align="center">
   <a href="mailto:dev.jesicagomez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/jesygomez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/JesyGomez"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/share/15yeykgED8/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/jesy_gomez3?igsh=bXcwaGxibTI2Mmgx"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+
 </p>
 
----
+<!--## 🌐 **Connect with Me**  
 
-## 🌍 Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesygomez)-->
+
+
+# 💻 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,java,spring,javascript,typescript,angular,react,vite,html,css,bootstrap,tailwind,mysql,postgres,postman,npm,firebase,vercel,netlify,git,github,vscode,ai " />
+</p>
+
+<h2 align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFkOWptZW5lM3pkbDZob2NhNDdoZzFlaXM5dWx5cTR3eWd1N3U5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="30"/> Language
+</h2>
 
 - 📖 Currently studying **English** at *Universidad Nacional del Oeste (UNO)*  
   Improving communication skills for professional and IT settings.
@@ -97,6 +124,12 @@
 + 🎯 Mi objetivo es integrarme a equipos de desarrollo donde pueda aportar soluciones con impacto y seguir aprendiendo cada día.  
 + 🌐 Me entusiasma colaborar en proyectos globales, combinando mis conocimientos técnicos con mis habilidades blandas.
 ```
+---
+<p align="center">
+  <a href="https://jesicagomezdesarrolladora.netlify.app/" target="_blank">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGF6amNsNGxwNzJhZjk3dTZrcjVmeHZrMXdzd2d6cm8zcHJzZndvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Oe5bzMJi5LVcbP0u/giphy.gif" width="250" alt="Portfolio Link">
+  </a>
+</p>
 
 ---
 
@@ -136,11 +169,12 @@
 | 🛒 **E-commerce Tienda** | Angular · TypeScript · TailwindCSS | Gestión de productos con diseño responsive |
 | 🐶 **Adopción de Mascotas App** | Python · Flask · Bootstrap| Sistema CRUD completo con panel administrativo |
 | 🛒 **E-commerce Patitas** | React · Js · Bootstrap · SweetAlert · APIRest | Gestión de productos con diseño responsive |
-| ✨ **Developer Portfolio** | HTML · CSS · JS | Exhibición interactiva con animaciones |
+| ✨ **Developer Portfolio** | HTML · CSS · JS · React | Exhibición interactiva con animaciones |
 | 🐾 **Portal de Mascotas App** | Python · Flask · React· MySQL · Bootstrap | Sistema CRUD completo con panel administrativo |
-
 ---
-## 🌍 Idiomas
+<h2 align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFkOWptZW5lM3pkbDZob2NhNDdoZzFlaXM5dWx5cTR3eWd1N3U5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="30"/> Idiomas
+</h2>
 
 - 📖 Estudiante de **Inglés** en *Universidad Nacional del Oeste (UNO)*  
   Mejorando habilidades comunicativas para contextos profesionales e IT.
@@ -150,11 +184,15 @@
 ## 📫 **Contacto**
 <p align="center">
   <a href="mailto:dev.jesicagomez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/jesygomez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/JesyGomez"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/share/15yeykgED8/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/jesy_gomez3?igsh=bXcwaGxibTI2Mmgx"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+
 </p>
 
 <!--## 🌐 **Connect with Me**  
@@ -162,8 +200,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesygomez)-->
 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![POSTMAN](https://img.shields.io/badge/postman-892CA0.svg?style=for-the-badge&logo=postman&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jesygomez.github.io/Portfolio-in-English/) [![English Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#d139ff)](https://jesygomez.github.io/PortFolio/)
+# 💻 Tecnologías:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,java,spring,javascript,typescript,angular,react,vite,html,css,bootstrap,tailwind,mysql,postgres,postman,npm,firebase,vercel,netlify,git,github,vscode,ai " />
+</p>
 <!-- ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white). ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white). ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JesyGomez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
