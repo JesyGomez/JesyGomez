@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/JesyGomez">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZpbWF4c2l4ZnByMTlxdmVoejdmaGR3OTJ6dDYzcGNkbDZ0OTZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="100%" height="500px" style="object-fit: cover;" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZpbWF4c2l4ZnByMTlxdmVoejdmaGR3OTJ6dDYzcGNkbDZ0OTZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="100%" height="300px" style="object-fit: cover;" />
   </a>
 </div>
 
