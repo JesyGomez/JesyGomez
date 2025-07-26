@@ -223,8 +223,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesyGomez&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
-🔝
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JesyGomez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
