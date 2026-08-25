@@ -93,8 +93,9 @@
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesygomez&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesygomez&layout=compact&theme=radical" width="400"/>
+  <img src="https://img.shields.io/github/followers/JesyGomez?label=Followers&style=for-the-badge&color=a21caf&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/JesyGomez?label=Stars&style=for-the-badge&color=a21caf&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=JesyGomez&label=Profile+Views&style=for-the-badge&color=a21caf" />
 </p>
 
 ---
@@ -235,18 +236,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,java,spring,javascript,typescript,angular,materialui,react,vite,html,css,bootstrap,tailwind,mysql,postgres,postman,npm,firebase,vercel,netlify,git,github,vscode,ai " />
 </p>
-## 📊 GitHub Stats:
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesyGomez&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesyGomez&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesyGomez&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/JesyGomez?label=Seguidores&style=for-the-badge&color=a21caf&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/JesyGomez?label=Estrellas&style=for-the-badge&color=a21caf&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=JesyGomez&label=Visitas+al+perfil&style=for-the-badge&color=a21caf" />
 </p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JesyGomez&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=JesyGomez&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
