@@ -40,6 +40,16 @@
 </p>
 
 
+## 💼 Work Experience
+
+- 👩‍💻 **Software Developer** | *Meditec S.R.L.* — Sept 2025 – Present
+  Maintaining and evolving the corporate CRM: Java & Spring Boot on the backend, Angular 15 (Angular Material, AG Grid) on the frontend, MySQL as the database. Using **Claude Code** daily to navigate the codebase, propose changes, and review implementations. Agile workflow with Git, GitHub, and HacknPlan.
+
+- 🐾 **Full Stack Developer** | *Pet Portal – Polo IT* — Mar 2025 – Aug 2025
+  MVP pet-adoption platform built with React, Python, Flask, and MySQL, working in a cross-functional team of 8 with an agile workflow (Jira).
+
+---
+
 ## 📚 Education & Technical
 
 - 🎓 **Full Stack Java Programmer** | *Universidad de La Punta*  
@@ -110,7 +120,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,java,spring,javascript,typescript,angular,react,vite,html,css,bootstrap,tailwind,mysql,postgres,postman,npm,firebase,vercel,netlify,git,github,vscode,ai " />
+  <img src="https://skillicons.dev/icons?i=python,flask,java,spring,javascript,typescript,angular,materialui,react,vite,html,css,bootstrap,tailwind,mysql,postgres,postman,npm,firebase,vercel,netlify,git,github,vscode,ai " />
 </p>
 
 <h2 align="left">
@@ -141,6 +151,16 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGF6amNsNGxwNzJhZjk3dTZrcjVmeHZrMXdzd2d6cm8zcHJzZndvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Oe5bzMJi5LVcbP0u/giphy.gif" width="250" alt="Portfolio Link">
   </a>
 </p>
+
+---
+
+## 💼 Experiencia Laboral
+
+- 👩‍💻 **Software Developer** | *Meditec S.R.L.* — Sept 2025 – Presente
+  Mantenimiento y evolución del CRM corporativo: Java y Spring Boot en el backend, Angular 15 (Angular Material, AG Grid) en el frontend, MySQL como base de datos. Uso de **Claude Code** a diario para navegar el código, proponer cambios y revisar implementaciones. Flujo de trabajo ágil con Git, GitHub y HacknPlan.
+
+- 🐾 **Full Stack Developer** | *Pet Portal – Polo IT* — Mar 2025 – Ago 2025
+  MVP de plataforma de adopción de mascotas con React, Python, Flask y MySQL, en un equipo multidisciplinario de 8 personas con metodología ágil (Jira).
 
 ---
 
@@ -213,7 +233,7 @@
 
 # 💻 Tecnologías:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,java,spring,javascript,typescript,angular,react,vite,html,css,bootstrap,tailwind,mysql,postgres,postman,npm,firebase,vercel,netlify,git,github,vscode,ai " />
+  <img src="https://skillicons.dev/icons?i=python,flask,java,spring,javascript,typescript,angular,materialui,react,vite,html,css,bootstrap,tailwind,mysql,postgres,postman,npm,firebase,vercel,netlify,git,github,vscode,ai " />
 </p>
 ## 📊 GitHub Stats:
 
